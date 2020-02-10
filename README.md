@@ -1,6 +1,7 @@
 # E05-Input
+I have finished this assignment and I put in quotes the notes of the assignment.
 
-This is an exercise to help you become accustomed to how Godot treats user input.
+"This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
@@ -37,6 +38,6 @@ Instructions are as follows:
    - Make sure that the function is properly indented, and that you are using tabs instead of spaces
    - Repeat this, adding conditions for the other three inputs you created. *Note: to move up, you will need to add a negative value to position.y.*
  - Run the project, and make sure the program is behaving as you would expect.
- - Update the LICENSE and README.md, commit your changes, and push them back to GitHub. Turn in the URL of your repository on Canvas.
+ - Update the LICENSE and README.md, commit your changes, and push them back to GitHub. Turn in the URL of your repository on Canvas."
 
 
