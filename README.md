@@ -2,7 +2,7 @@
 
 This is an exercise to help you become accustomed to how Godot treats user input.
 
-Instructions will follow:
+Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
  - Open Godot. In the Project Manager, select "Import".
  - Click "Browse", navigate to the folder you downloaded when you cloned the repository, and select the project.godot file. Press "Import & Edit"
